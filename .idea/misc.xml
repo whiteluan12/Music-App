@@ -4,6 +4,7 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Nam3_Ki2/Spotify_Clone/app/src/main/res/drawable/component_playlist.xml" value="0.1935" />
+        <entry key="..\:/Nam3_Ki2/Spotify_Clone/app/src/main/res/drawable/gradient_color.xml" value="0.1885" />
         <entry key="..\:/Nam3_Ki2/Spotify_Clone/app/src/main/res/drawable/ic_arrow_left.xml" value="0.1935" />
         <entry key="..\:/Nam3_Ki2/Spotify_Clone/app/src/main/res/drawable/ic_bell_solid.xml" value="0.1815" />
         <entry key="..\:/Nam3_Ki2/Spotify_Clone/app/src/main/res/drawable/ic_clock_rotate_left_solid.xml" value="0.1815" />
@@ -12,10 +13,15 @@
         <entry key="..\:/Nam3_Ki2/Spotify_Clone/app/src/main/res/drawable/ic_more.xml" value="0.2505" />
         <entry key="..\:/Nam3_Ki2/Spotify_Clone/app/src/main/res/drawable/rectangle_background.xml" value="0.1935" />
         <entry key="..\:/Nam3_Ki2/Spotify_Clone/app/src/main/res/drawable/rounded_background.xml" value="0.2505" />
+        <entry key="..\:/Nam3_Ki2/Spotify_Clone/app/src/main/res/drawable/rounded_button.xml" value="0.209" />
         <entry key="..\:/Nam3_Ki2/Spotify_Clone/app/src/main/res/layout/activity_main.xml" value="0.25" />
         <entry key="..\:/Nam3_Ki2/Spotify_Clone/app/src/main/res/layout/activity_setting.xml" value="0.25" />
+        <entry key="..\:/Nam3_Ki2/Spotify_Clone/app/src/main/res/layout/activity_user.xml" value="0.2222222222222222" />
         <entry key="..\:/Nam3_Ki2/Spotify_Clone/app/src/main/res/layout/component_album.xml" value="0.33" />
+        <entry key="..\:/Nam3_Ki2/Spotify_Clone/app/src/main/res/layout/component_music.xml" value="0.4" />
         <entry key="..\:/Nam3_Ki2/Spotify_Clone/app/src/main/res/layout/component_playlist.xml" value="0.33" />
+        <entry key="..\:/Nam3_Ki2/Spotify_Clone/app/src/main/res/layout/component_playlist_horizontal.xml" value="0.4" />
+        <entry key="..\:/Nam3_Ki2/Spotify_Clone/app/src/main/res/layout/test.xml" value="0.2222222222222222" />
       </map>
     </option>
   </component>
