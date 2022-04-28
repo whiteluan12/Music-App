@@ -9,11 +9,8 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.Spotify_Clone">
-<!--        <activity android:name=".SettingActivity"-->
-<!--            android:exported="true">-->
-<!--        </activity>-->
         <activity
-            android:name=".SettingActivity"
+            android:name=".UserActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
