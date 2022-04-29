@@ -10,7 +10,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Spotify_Clone">
         <activity
-            android:name=".EditUserActivity"
+            android:name=".CheckPremiumActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
