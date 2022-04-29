@@ -10,7 +10,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Spotify_Clone">
         <activity
-            android:name=".UserActivity"
+            android:name=".EditUserActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
